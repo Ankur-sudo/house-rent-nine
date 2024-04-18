@@ -1,0 +1,75 @@
+[
+    {
+      "image": "https://i.ibb.co/xmCymhP/pic1.jpg",
+      "estate_title": "Luxury Villa with Ocean View",
+      "id": "1",
+      "segment_name": "Luxury",
+      "description": "A stunning villa nestled on a hilltop overlooking the ocean, offering breathtaking views and luxurious amenities.",
+      "price": "$2,500,000",
+      "status": "sale",
+      "area": "5000 sq ft",
+      "location": "Malibu, California",
+      "facilities": ["swimming pool", "spa", "home theater", "gym"]
+    },
+    {
+      "image": "https://i.ibb.co/KFW0ngy/pic2.jpg",
+      "estate_title": "Modern Condo in Downtown",
+      "id": "2",
+      "segment_name": "Urban",
+      "description": "Contemporary condo located in the heart of the city, offering convenience and style for urban living.",
+      "price": "$800,000",
+      "status": "sale",
+      "area": "1500 sq ft",
+      "location": "New York City, New York",
+      "facilities": ["gym", "rooftop terrace", "concierge service", "security"]
+    },
+    {
+      "image": "https://i.ibb.co/GczYT1t/pic3.jpg",
+      "estate_title": "Cozy Cottage by the Lake",
+      "id": "3",
+      "segment_name": "Suburban",
+      "description": "Charming cottage situated by a serene lake, perfect for a peaceful retreat away from the city.",
+      "price": "$400,000",
+      "status": "sale",
+      "area": "1200 sq ft",
+      "location": "Lake Tahoe, California",
+      "facilities": ["fireplace", "deck", "private dock", "garden"]
+    },
+    {
+      "image": "https://i.ibb.co/F6bxCQH/pic4.jpg",
+      "estate_title": "Spacious Family Home",
+      "id": "4",
+      "segment_name": "Family",
+      "description": "A spacious home designed for family living, featuring multiple bedrooms and a large backyard.",
+      "price": "$600,000",
+      "status": "sale",
+      "area": "2500 sq ft",
+      "location": "Austin, Texas",
+      "facilities": ["backyard", "playroom", "study", "garage"]
+    },
+    {
+      "image": "https://i.ibb.co/dbh4HNk/pic5.jpg",
+      "estate_title": "Luxury Penthouse with City Views",
+      "id": "5",
+      "segment_name": "Luxury",
+      "description": "Exquisite penthouse offering unparalleled luxury and panoramic views of the city skyline.",
+      "price": "$3,000,000",
+      "status": "sale",
+      "area": "3500 sq ft",
+      "location": "Los Angeles, California",
+      "facilities": ["rooftop pool", "private elevator", "wine cellar", "home automation"]
+    },
+    {
+      "image": "https://i.ibb.co/NFbj5T0/pic6.jpg",
+      "estate_title": "Modern Loft in Historic Building",
+      "id": "6",
+      "segment_name": "Urban",
+      "description": "Sleek and stylish loft apartment situated in a beautifully restored historic building.",
+      "price": "$900,000",
+      "status": "sale",
+      "area": "1800 sq ft",
+      "location": "Chicago, Illinois",
+      "facilities": ["exposed brick walls", "high ceilings", "gourmet kitchen", "fitness center"]
+    }
+  ]
+  
